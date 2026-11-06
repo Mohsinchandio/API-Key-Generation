@@ -72,5 +72,6 @@ On Windows PowerShell, use `curl.exe`, and put the JSON in a file (`-d "@body.js
 ## Security note
 Keys are generated with `secrets` for this classroom exercise. Real keys are never committed to this repository or shown in the demo video.
 
-## Demo video
-[Add your video link here]
+### Watch the Video  Demonstration of the API Key Generation and Sharing
+click here to watch the video
+https://drive.google.com/file/d/1iM7doThGWNmEAmFvTEawnCmSfwfoo6iQ/view?usp=sharing
